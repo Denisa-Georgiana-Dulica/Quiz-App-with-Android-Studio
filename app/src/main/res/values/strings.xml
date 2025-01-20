@@ -86,7 +86,7 @@
         <item>2</item>
         <item>1</item>
     </string-array>
-    <!-- TODO: Remove or change this placeholder text -->
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="progress_tv">See your progress</string>
     <string name="progress">Progress</string>
