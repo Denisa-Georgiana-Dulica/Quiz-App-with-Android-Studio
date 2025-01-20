@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">TEMA3_DAM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="todo">TODO</string>
+    <string name="menu_quiz">Start quiz</string>
+    <string name="fragment_quiz_see_the_correct_answers">See the correct answers</string>
+    <string name="you_should_choose_an_answer_for_all_this_questions_to_complite_the_quiz">You should choose an answer for all this questions to complite the quiz !</string>
+    <string name="main_add_question">Add question</string>
+    <string name="add_tv_write_the_question">Write the question</string>
+    <string name="add_write_answers">Write 3 answers</string>
+    <string name="add_write_the_correct_answer">Write the correct answer</string>
+    <string name="choose_the_level_of_difficulty">Choose the level of difficulty</string>
+    <string name="add_save_btn">Save</string>
+    <string name="create_a_new_question">Create a new question</string>
+    <string name="you_should_introduce_3_answers_between_comma">You should introduce 3 answers between comma</string>
+    <string name="write_a_valid_answer">Write a valid answer</string>
+    <string name="write_a_valid_question">Write a valid question</string>
+
+    <string-array name="difficult">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>
+            Who is credited with inventing the telephone?
+        </item>
+        <item>
+            In what year was the first transatlantic telegraph cable successfully completed?
+        </item>
+        <item>What technology was used for the first telegraph transmission?</item>
+        <item>In what year did Alexander Graham Bell successfully make the first telephone call?</item>
+        <item>Who invented Morse code?</item>
+        <item>What discovery made the development of radio possible?</item>
+        <item>What was the first artificial communication satellite launched into orbit?</item>
+        <item>Who is credited with developing the first radio system?</item>
+        <item>Which invention revolutionized telecommunications in the 1970s?</item>
+        <item>What is considered the first global telecommunications network?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Alexander Graham Bell,Nikola Tesla,Thomas Edison</item>
+        <item>1844,1880,1866</item>
+        <item>Radio waves,Electricity,Fiber optics</item>
+        <item>1850,1876,1890</item>
+        <item>Samuel Morse,Guglielmo Marconi,Heinrich Hertz</item>
+        <item>Electromagnetic waves,Nuclear energy,Fiber optics</item>
+        <item>Sputnik 1,Telstar 1,Intelsat 1</item>
+        <item>Heinrich Hertz,Guglielmo Marconi,Nikola Tesla</item>
+        <item>Mobile phone,Radio,Telegraph</item>
+        <item>Landline telephony,The Internet,GPS satellites</item>
+    </string-array>
+
+    <string-array name="correct_answer">
+        <item>Alexander Graham Bell </item>
+        <item>1866</item>
+        <item>Electricity</item>
+        <item>1876</item>
+        <item>Samuel Morse</item>
+        <item>Electromagnetic waves</item>
+        <item>Telstar 1</item>
+        <item>Guglielmo Marconi</item>
+        <item>Mobile phone</item>
+        <item>The Internet</item>
+    </string-array>
+
+    <string-array name="difficulty">
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="progress_tv">See your progress</string>
+    <string name="progress">Progress</string>
+    <string name="learn">Learn</string>
+    <string name="fragment_learn">Learn</string>
+    <string name="see_the_questions_in_descending_order_of_difficulty">See the questions in descending order of difficulty</string>
+    <string name="see_questions">See questions</string>
+    <string name="bara">/</string>
+    <string name="dulica_denisa">Dulica Denisa</string>
+
+</resources>
