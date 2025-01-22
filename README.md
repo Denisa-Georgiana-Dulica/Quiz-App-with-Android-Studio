@@ -11,7 +11,8 @@ The options available in the menu are:
 - A representative icon for each option.
 - A custom theme specified in styles.xml.
 - The data was taken from the strings.xml file.
-![WhatsApp Image 2025-01-22 at 19 07 17 (1)](https://github.com/user-attachments/assets/aea4228e-b395-4f5b-90af-a0154a953586)
+
+<img src="https://github.com/user-attachments/assets/aea4228e-b395-4f5b-90af-a0154a953586" alt="WhatsApp Image 2025-01-22 at 19 07 17 (1)" style="width: 50%; height: auto;" />
 
 ## Quiz section
 💥 Important features:
